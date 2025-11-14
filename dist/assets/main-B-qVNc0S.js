@@ -1,0 +1,1 @@
+import"./modulepreload-polyfill-B5Qt9EMX.js";/* empty css              */const o=document.getElementById("scrollToTopBtn");window.addEventListener("scroll",()=>{window.pageYOffset>100?o.classList.add("show"):o.classList.remove("show")});o.addEventListener("click",()=>{window.scrollTo({top:0,behavior:"smooth"})});
